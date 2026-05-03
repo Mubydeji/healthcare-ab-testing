@@ -129,7 +129,7 @@ This framework is validated and ready to apply to such a study.
 
 **Mubarak Adesola Adedeji**
 Data Analyst | Python · SQL · R · Power BI
-[LinkedIn](https://linkedin.com/in/mubarak-adedeji) · [GitHub](https://github.com/Mubydeji)
+[LinkedIn](www.linkedin.com/in/mubarak-adedeji-776804273) · [GitHub](https://github.com/Mubydeji)
 
 ---
 
