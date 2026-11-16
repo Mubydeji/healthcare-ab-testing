@@ -9,7 +9,7 @@
 
 ## Overview
 
-This project implements a complete A/B testing framework applied to a real-world healthcare dataset. It simulates a randomised controlled trial evaluating whether a structured lifestyle intervention programme — combining diet counselling and exercise guidance — significantly reduces diabetes risk indicators in high-risk patients.
+This project implements a complete A/B testing framework applied to a real-world healthcare dataset. It simulates a randomised controlled trial evaluating whether a structured lifestyle intervention programme, combining diet counselling and exercise guidance, significantly reduces diabetes risk indicators in high-risk patients.
 
 The project demonstrates end-to-end statistical thinking: from hypothesis formulation and power analysis through to effect size calculation, confidence intervals, and a structured clinical recommendation.
 
@@ -28,8 +28,6 @@ The project demonstrates end-to-end statistical thinking: from hypothesis formul
 - 768 female patients of Pima Indian heritage, aged 21+
 - 9 features including Glucose, BMI, Insulin, Blood Pressure, and Diabetes Outcome
 - Target variable: Outcome (1 = diabetic, 0 = non-diabetic)
-
----
 
 ---
 
@@ -78,7 +76,7 @@ The project demonstrates end-to-end statistical thinking: from hypothesis formul
 
 No statistically significant difference was detected between groups across all three metrics. All 95% confidence intervals contained zero. Effect sizes were negligible across all metrics.
 
-These results are expected and correct — both groups were drawn from the same population via stratified random assignment. The value of this project lies in the framework, not in manufacturing a false positive.
+These results are expected and correct, both groups were drawn from the same population via stratified random assignment. The value of this project lies in the framework, not in manufacturing a false positive.
 
 ---
 
@@ -93,9 +91,9 @@ These results are expected and correct — both groups were drawn from the same 
 
 ## Limitations
 
-1. **Simulated intervention** — groups were assigned post-hoc from cross-sectional data, not enrolled prospectively
-2. **No temporal component** — lifestyle interventions typically require 3 to 6 months to show measurable physiological change
-3. **No baseline measurements** — a proper RCT requires pre-intervention measurements for each patient
+1. **Simulated intervention**: groups were assigned post-hoc from cross-sectional data, not enrolled prospectively
+2. **No temporal component**: lifestyle interventions typically require 3 to 6 months to show measurable physiological change
+3. **No baseline measurements**: a proper RCT requires pre-intervention measurements for each patient
 
 ---
 
@@ -135,5 +133,5 @@ Data Analyst | Python · SQL · R · Power BI
 
 ## License
 
-MIT License — free to use, adapt, and build on with attribution.
+MIT License, free to use, adapt, and build on with attribution.
 
